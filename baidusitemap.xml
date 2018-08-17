@@ -6,6 +6,21 @@
     
     
     
+  <url>
+    <loc>https://hexesblog.top/2018/08/14/hello-world/</loc>
+    <lastmod>2018-08-17T12:29:17.395Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-08-14T06:26:47.578Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
     
   <url>
     <loc>https://hexesblog.top/2018/08/14/My%20first%20blog/</loc>
@@ -25,19 +40,4 @@
 
     
     
-    
-  <url>
-    <loc>https://hexesblog.top/2018/08/14/hello-world/</loc>
-    <lastmod>2018-08-14T06:26:47.578Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2018-08-14T06:26:47.578Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
 </urlset>
