@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+    
+    
+    
+  <url>
+    <loc>https://hexesblog.top/2018/08/14/My%20first%20blog/</loc>
+    <lastmod>2018-08-16T17:15:36.760Z</lastmod>
+    <data>
+        <display>
+        <title>My first blog</title>
+        <pubTime>2018-08-14T13:22:59.000Z</pubTime>
+        
+        <tag>first</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+  <url>
+    <loc>https://hexesblog.top/2018/08/14/hello-world/</loc>
+    <lastmod>2018-08-14T06:26:47.578Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-08-14T06:26:47.578Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
